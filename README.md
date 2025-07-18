@@ -3,7 +3,8 @@
 🎓 Estudante de Engenharia Elétrica
   * Pesquisador no projeto CNPq Fala-texto e 
   * bolsita no projeto de extensão jogos sérios com IA regenerativa
-🤖 tenho interesse por Inteligência Artificial, Sistemas Embarcados e Ciência de Dados  
+🤖 tenho interesse por Inteligência Artificial,
+ Sistemas Embarcados e Ciência de Dados  
 🔧 exploro projetos com Python, C/C++ e Jupyter Notebooks  
 
 ---
