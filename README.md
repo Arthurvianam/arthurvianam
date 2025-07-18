@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Arthur Viana!
 
 🎓 Estudante de Engenharia Elétrica
-  * Pesquisador no projeto CNPq Fala-texto e 
+  * Pesquisador no projeto CNPq Fala-texto 
   * bolsita no projeto de extensão jogos sérios com IA regenerativa
   * 🤖 tenho interesse por Inteligência Artificial,
  Sistemas Embarcados e Ciência de Dados
